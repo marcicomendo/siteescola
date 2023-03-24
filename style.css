@@ -1,4 +1,9 @@
-header {
+body {
   background-color:  #ff9fe7;
   color: white;
    }
+   .cabecalho-imagem{
+    background-color: blueviolet;
+   color: white;
+  display: flex;
+  }
